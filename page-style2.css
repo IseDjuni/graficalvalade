@@ -130,7 +130,6 @@
     text-align: center;
     padding: 0.6rem;
     background-color: rgb(165, 106, 38);
-    z-index: 1;
     overflow: hidden;
     transition: 2s ease-in-out;
 }
