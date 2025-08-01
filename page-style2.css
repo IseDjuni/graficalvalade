@@ -1,5 +1,5 @@
 .hearder-text{
-    background-image: url(../Web_ject_3/img-ject3/contact.jpg);
+    background-image: url(img-ject3/contact.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 75%;
@@ -56,7 +56,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    background-image: url(../Web_ject_3/img-ject3/dot3.png);
+    background-image: url(img-ject3/dot3.png);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 10%;
@@ -104,7 +104,7 @@
     position: relative;
 }
 .about-img{
-    background-image: url(../Web_ject_3/img-ject3/web-option-Recuperado-Recuperado-Recuperado-Recuperado-Recuperado.png);
+    background-image: url(img-ject3/web-option-Recuperado-Recuperado-Recuperado-Recuperado-Recuperado.png);
     background-size: cover;
     max-width: 300rem;
     border-radius: 1.5rem;
@@ -149,7 +149,7 @@
     position: relative;
 }
 .about-box{
-    background-image: url(../Web_ject_3/img-ject3/box-content1.png);
+    background-image: url(img-ject3/box-content1.png);
     background-size: cover;
     background-color: rgb(192, 149, 108);
     aspect-ratio: 4/3;
@@ -159,7 +159,7 @@
 }
 
 .about-box1{
-    background-image: url(../Web_ject_3/img-ject3/box-content.png);
+    background-image: url(img-ject3/box-content.png);
     background-size: cover;
     background-color: rgb(192, 149, 108);
     width: 50rem;
@@ -169,7 +169,7 @@
     position: relative;
 }
 .about-text{
-    background-image: url(../Web_ject_3/img-ject3/box1-content.png);
+    background-image: url(img-ject3/box1-content.png);
     background-size:contain ; 
     background-repeat: no-repeat;
     background-position-x: 80%;
@@ -195,7 +195,7 @@
     height: 80%;
     width: 100vw;
     position: relative;
-    background-image: url(../Web_ject_3/img-ject3/background.png);
+    background-image: url(img-ject3/background.png);
     background-size: cover;
     background-repeat: no-repeat; 
 }
