@@ -310,17 +310,18 @@
     flex-direction: column; 
     gap: 0.3rem;
     position: fixed ;
-    right: 1rem;
-    top: 77%;
+    right: 1.4rem;
+    top: 65%;
     z-index: 1;
 }
 .floater-icons{
     background-color: rgb(255, 255, 255);
     border-radius: 50%;
-    height: 2.3rem;
-    width: 2.3rem;
+    height: 3.6rem;
+    width: 3.6rem;
     box-shadow: 1px 1px 10px black;
 }
 .f-icon{
     transition: ease;
 }
+
